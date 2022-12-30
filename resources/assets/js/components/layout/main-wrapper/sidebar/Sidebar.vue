@@ -2,7 +2,7 @@
   <nav id="sidebar" v-koel-clickaway="closeIfMobile" :class="{ showing: mobileShowing }" class="side side-nav">
     <SearchForm />
     <section class="music">
-      <h1>Centre Missionnaire De Binza</h1>
+      <h1>CENTRE MISS. DE BINZA</h1>
 
       <ul class="menu">
         <SidebarItem screen="Home" href="#/home" :icon="faHome">Accueil</SidebarItem>

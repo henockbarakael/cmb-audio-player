@@ -9,7 +9,7 @@
         </template>
         No songs found.
         <span class="secondary d-block">
-          {{ isAdmin ? 'Have you set up your library yet?' : 'Contact your administrator to set up your library.' }}
+          {{ isAdmin ? 'Avez-vous déjà configuré votre bibliothèque?' : 'Contact your administrator to set up your library.' }}
         </span>
       </ScreenEmptyState>
 

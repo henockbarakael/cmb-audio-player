@@ -1,7 +1,7 @@
 <template>
   <section class="recent">
     <h1>
-      Recently Played
+      Joué récemment
       <Btn
         v-if="songs.length"
         orange

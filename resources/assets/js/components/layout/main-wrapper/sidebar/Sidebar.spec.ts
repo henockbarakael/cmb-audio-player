@@ -13,7 +13,7 @@ const standardItems = [
   'Artists',
   'Genres',
   'Favorites',
-  'Recently Played'
+  'Joué récemment'
 ]
 
 const adminItems = [...standardItems, 'Users', 'Upload', 'Settings']

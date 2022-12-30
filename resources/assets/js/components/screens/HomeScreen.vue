@@ -7,7 +7,7 @@
         <template #icon>
           <icon :icon="faVolumeOff" />
         </template>
-        No songs found.
+        Aucune prédications trouvées
         <span class="secondary d-block">
           {{ isAdmin ? 'Avez-vous déjà configuré votre bibliothèque?' : 'Contact your administrator to set up your library.' }}
         </span>

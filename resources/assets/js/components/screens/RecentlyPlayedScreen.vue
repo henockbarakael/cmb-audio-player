@@ -1,7 +1,7 @@
 <template>
   <section id="recentlyPlayedWrapper">
     <ScreenHeader :layout="songs.length === 0 ? 'collapsed' : headerLayout">
-      Recently Played
+      Joué récemment
       <ControlsToggle v-model="showingControls" />
 
       <template #thumbnail>

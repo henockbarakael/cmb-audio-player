@@ -39,7 +39,7 @@
         <icon :icon="faCoffee" />
       </template>
 
-      No songs queued.
+      Aucune prédications en attente
       <span v-if="libraryNotEmpty" class="d-block secondary">
         How about
         <a class="start" @click.prevent="shuffleSome">playing some random songs</a>?

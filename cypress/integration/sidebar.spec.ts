@@ -7,7 +7,7 @@ context('Sidebar Functionalities', () => {
     ['Artists', '/#!/artists'],
     ['YouTube Video', '/#!/youtube'],
     ['Favorites', '/#!/favorites'],
-    ['Recently Played', '/#!/recently-played'],
+    ['Joué récemment', '/#!/recently-played'],
     ['Simple Playlist', '/#!/playlist/1']
   ]
 

@@ -8,7 +8,7 @@
           <icon :icon="faKiwiBird" :mask="faMap" transform="shrink-12" />
         </template>
 
-        The requested content cannot be found.
+        Le contenu demandé est introuvable.
       </ScreenEmptyState>
     </div>
   </section>

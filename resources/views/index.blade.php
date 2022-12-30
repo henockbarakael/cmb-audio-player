@@ -1,6 +1,6 @@
 @extends('base')
 
-@section('title', 'Centre Missionnaire De Binza')
+@section('title', 'CENTRE MISS. DE BINZA')
 
 @push('scripts')
     @vite(['resources/assets/js/app.ts'])
